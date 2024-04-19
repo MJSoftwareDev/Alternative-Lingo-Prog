@@ -15,7 +15,7 @@ Java was selected for several key reasons:
 
 <br/>
 
-## Language Features
+## Pros of Language ##
 Java's rich feature set makes it well-suited for handling the diverse aspects of this project, from data parsing to complex analyses.
 
 * Object-Oriented Programming (OOP):
