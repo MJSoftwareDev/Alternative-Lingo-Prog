@@ -1,7 +1,7 @@
 # Alternative-Lingo-Prog#
 <br/>
 
-## Language Selection
+## Chosen Language
 Java Version 21.0.2
 For this project, Java version 21.0.2 was chosen as the programming language. This LTS (Long-Term Support) version offers a blend of stability and modern features, making it ideal for building reliable and efficient applications.
 
