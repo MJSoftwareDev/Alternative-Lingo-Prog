@@ -35,7 +35,7 @@ JUnit facilitated robust unit testing, ensuring the reliability of data processi
 
 <br/>
 
-## Libraries Used
+## Libraries 
 
 * JUnit:
 For unit testing, JUnit was instrumental in validating the correctness of data parsing and analysis logic.
@@ -48,7 +48,7 @@ This library simplified CSV file operations, making it straightforward to read a
 
 <br/>
 
-## Analysis Results
+## Output
 ### 1. OEM with the Highest Average Weight: 
 
 ### My process:
