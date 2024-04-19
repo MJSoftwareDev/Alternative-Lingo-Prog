@@ -5,7 +5,7 @@
 Java Version 21.0.2
 For this project, Java version 21.0.2 was chosen as the programming language. This LTS (Long-Term Support) version offers a blend of stability and modern features, making it ideal for building reliable and efficient applications.
 
-### Why Java?
+### Langauge Used ####
 Java was selected for several key reasons:
 
 * Portability: Write once, run anywhere (WORA) capability, thanks to the JVM (Java Virtual Machine).
